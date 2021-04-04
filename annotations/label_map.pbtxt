@@ -13,3 +13,7 @@ item {
     name: 'red'
 }
 
+item {
+ id: 4
+ name: 'can'
+}
