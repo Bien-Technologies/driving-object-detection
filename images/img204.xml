@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>img204.jpg</filename>
+    <path>can_detection_validation-PascalVOC-export/Annotations/img204.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>420</width>
+        <height>470</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>26.568893861892583</xmin>
+        <ymin>48.88</ymin>
+        <xmax>309.0752877237852</xmax>
+        <ymax>432.4</ymax>
+    </bndbox>
+</object>
+</annotation>

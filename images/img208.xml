@@ -1,13 +1,13 @@
 <annotation verified="yes">
     <folder>Annotation</folder>
-    <filename>img179.jpg</filename>
-    <path>robo_images-PascalVOC-export/Annotations/img179.jpg</path>
+    <filename>img208.jpg</filename>
+    <path>can_detection_validation-PascalVOC-export/Annotations/img208.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
     <size>
-        <width>600</width>
-        <height>450</height>
+        <width>510</width>
+        <height>340</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>1.716109453621557</xmin>
-        <ymin>94.06779661016948</ymin>
-        <xmax>550.8686906200344</xmax>
-        <ymax>446.4406934835143</ymax>
+        <xmin>114.487814166032</xmin>
+        <ymin>88.20571428571428</ymin>
+        <xmax>425.2265803503427</xmax>
+        <ymax>259.56571428571425</ymax>
     </bndbox>
 </object>
 </annotation>

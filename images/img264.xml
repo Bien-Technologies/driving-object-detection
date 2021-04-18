@@ -1,0 +1,15 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>img264.jpg</filename>
+    <path>can_detection-PascalVOC-export/Annotations/img264.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>722</width>
+        <height>406</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    
+</annotation>
