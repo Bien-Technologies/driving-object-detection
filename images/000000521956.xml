@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/person</folder>
+  <filename>000000521956.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000521956.jpg</url>
+  </source>
+  <size>
+    <width>500</width>
+    <height>330</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>1.36</ymin>
+      <xmax>347.06</xmax>
+      <ymax>326.17</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>tennis racket</name>
+    <bndbox>
+      <xmin>17.02</xmin>
+      <ymin>1.48</ymin>
+      <xmax>49.56999999999999</xmax>
+      <ymax>190.16</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

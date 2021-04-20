@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2014_instance/toilet</folder>
+  <filename>000000263796.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000263796.jpg</url>
+  </source>
+  <size>
+    <width>480</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>toilet</name>
+    <bndbox>
+      <xmin>183.38</xmin>
+      <ymin>261.98</ymin>
+      <xmax>353.69</xmax>
+      <ymax>592.3199999999999</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

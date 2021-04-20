@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2014_instance/orange</folder>
+  <filename>000000386277.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000386277.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>428</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>orange</name>
+    <bndbox>
+      <xmin>211.98</xmin>
+      <ymin>101.45</ymin>
+      <xmax>473.41999999999996</xmax>
+      <ymax>374.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

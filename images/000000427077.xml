@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/person</folder>
+  <filename>000000427077.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000427077.jpg</url>
+  </source>
+  <size>
+    <width>344</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>116.26</xmin>
+      <ymin>76.13</ymin>
+      <xmax>272.76</xmax>
+      <ymax>407.06</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>baseball bat</name>
+    <bndbox>
+      <xmin>113.76</xmin>
+      <ymin>109.03</ymin>
+      <xmax>282.53000000000003</xmax>
+      <ymax>135.26</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

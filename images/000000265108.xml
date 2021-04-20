@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/umbrella</folder>
+  <filename>000000265108.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000265108.jpg</url>
+  </source>
+  <size>
+    <width>427</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>umbrella</name>
+    <bndbox>
+      <xmin>196.72</xmin>
+      <ymin>424.34</ymin>
+      <xmax>219.86</xmax>
+      <ymax>611.88</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>suitcase</name>
+    <bndbox>
+      <xmin>250.25</xmin>
+      <ymin>386.88</ymin>
+      <xmax>352.36</xmax>
+      <ymax>609.8</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

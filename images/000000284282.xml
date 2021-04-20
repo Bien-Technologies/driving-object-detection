@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2014_instance/dining table</folder>
+  <filename>000000284282.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000284282.jpg</url>
+  </source>
+  <size>
+    <width>500</width>
+    <height>333</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dining table</name>
+    <bndbox>
+      <xmin>64.13</xmin>
+      <ymin>91.95</ymin>
+      <xmax>499.09</xmax>
+      <ymax>328.75</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

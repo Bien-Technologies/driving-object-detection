@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/bench</folder>
+  <filename>000000446117.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000446117.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>426</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bench</name>
+    <bndbox>
+      <xmin>1.91</xmin>
+      <ymin>8.62</ymin>
+      <xmax>640.0</xmax>
+      <ymax>425.04</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>orange</name>
+    <bndbox>
+      <xmin>251.44</xmin>
+      <ymin>149.34</ymin>
+      <xmax>382.90999999999997</xmax>
+      <ymax>262.82</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

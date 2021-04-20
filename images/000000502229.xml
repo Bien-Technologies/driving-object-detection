@@ -1,0 +1,56 @@
+<annotation>
+  <folder>VOC2014_instance/train</folder>
+  <filename>000000502229.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000502229.jpg</url>
+  </source>
+  <size>
+    <width>612</width>
+    <height>612</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>train</name>
+    <bndbox>
+      <xmin>8.08</xmin>
+      <ymin>487.86</ymin>
+      <xmax>572.12</xmax>
+      <ymax>566.86</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>train</name>
+    <bndbox>
+      <xmin>11.78</xmin>
+      <ymin>503.66</ymin>
+      <xmax>391.9</xmax>
+      <ymax>577.29</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>train</name>
+    <bndbox>
+      <xmin>10.41</xmin>
+      <ymin>542.82</ymin>
+      <xmax>274.24</xmax>
+      <ymax>601.6700000000001</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>train</name>
+    <bndbox>
+      <xmin>495.6</xmin>
+      <ymin>457.66</ymin>
+      <xmax>598.15</xmax>
+      <ymax>483.11</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2014_instance/traffic light</folder>
+  <filename>000000110282.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000110282.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>418</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>422.71</xmin>
+      <ymin>86.14</ymin>
+      <xmax>495.2</xmax>
+      <ymax>233.01</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

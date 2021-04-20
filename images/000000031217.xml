@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/sports ball</folder>
+  <filename>000000031217.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000031217.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>426</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>601.63</xmin>
+      <ymin>90.09</ymin>
+      <xmax>608.7</xmax>
+      <ymax>97.48</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>263.26</xmin>
+      <ymin>151.27</ymin>
+      <xmax>396.72</xmax>
+      <ymax>310.99</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>tennis racket</name>
+    <bndbox>
+      <xmin>390.53</xmin>
+      <ymin>164.55</ymin>
+      <xmax>440.12</xmax>
+      <ymax>194.39000000000001</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

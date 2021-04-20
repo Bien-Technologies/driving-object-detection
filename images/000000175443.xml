@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/teddy bear</folder>
+  <filename>000000175443.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000175443.jpg</url>
+  </source>
+  <size>
+    <width>480</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>123.69</xmin>
+      <ymin>255.56</ymin>
+      <xmax>363.87</xmax>
+      <ymax>569.0899999999999</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>9.9</xmin>
+      <ymin>402.26</ymin>
+      <xmax>49.55</xmax>
+      <ymax>558.79</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

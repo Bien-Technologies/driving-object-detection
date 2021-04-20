@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/spoon</folder>
+  <filename>000000005600.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000005600.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>361</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>spoon</name>
+    <bndbox>
+      <xmin>89.24</xmin>
+      <ymin>95.73</ymin>
+      <xmax>210.92000000000002</xmax>
+      <ymax>241.75</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>bowl</name>
+    <bndbox>
+      <xmin>212.07</xmin>
+      <ymin>138.09</ymin>
+      <xmax>538.26</xmax>
+      <ymax>361.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>bowl</name>
+    <bndbox>
+      <xmin>123.31</xmin>
+      <ymin>1.68</ymin>
+      <xmax>374.78999999999996</xmax>
+      <ymax>181.77</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

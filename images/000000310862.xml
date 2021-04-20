@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/tie</folder>
+  <filename>000000310862.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000310862.jpg</url>
+  </source>
+  <size>
+    <width>612</width>
+    <height>612</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>tie</name>
+    <bndbox>
+      <xmin>186.5</xmin>
+      <ymin>332.88</ymin>
+      <xmax>308.96</xmax>
+      <ymax>581.04</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>5.5</xmin>
+      <ymin>4.13</ymin>
+      <xmax>577.62</xmax>
+      <ymax>602.37</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>dining table</name>
+    <bndbox>
+      <xmin>519.54</xmin>
+      <ymin>379.56</ymin>
+      <xmax>562.74</xmax>
+      <ymax>436.2</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

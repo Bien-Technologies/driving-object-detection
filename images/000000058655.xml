@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2014_instance/clock</folder>
+  <filename>000000058655.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000058655.jpg</url>
+  </source>
+  <size>
+    <width>425</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>225.13</xmin>
+      <ymin>133.38</ymin>
+      <xmax>349.86</xmax>
+      <ymax>200.7</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

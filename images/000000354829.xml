@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/car</folder>
+  <filename>000000354829.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000354829.jpg</url>
+  </source>
+  <size>
+    <width>500</width>
+    <height>375</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>81.74</xmin>
+      <ymin>84.27</ymin>
+      <xmax>371.63</xmax>
+      <ymax>238.48000000000002</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>fire hydrant</name>
+    <bndbox>
+      <xmin>319.25</xmin>
+      <ymin>206.64</ymin>
+      <xmax>349.33</xmax>
+      <ymax>260.2</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

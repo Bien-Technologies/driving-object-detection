@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2014_instance/scissors</folder>
+  <filename>000000348012.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000348012.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>428</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>scissors</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>3.37</ymin>
+      <xmax>640.0</xmax>
+      <ymax>250.15</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

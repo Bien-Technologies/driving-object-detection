@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2014_instance/microwave</folder>
+  <filename>000000444275.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000444275.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>microwave</name>
+    <bndbox>
+      <xmin>347.93</xmin>
+      <ymin>171.94</ymin>
+      <xmax>493.61</xmax>
+      <ymax>249.25</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

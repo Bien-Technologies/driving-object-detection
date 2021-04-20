@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/giraffe</folder>
+  <filename>000000460379.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000460379.jpg</url>
+  </source>
+  <size>
+    <width>426</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>giraffe</name>
+    <bndbox>
+      <xmin>184.36</xmin>
+      <ymin>400.76</ymin>
+      <xmax>253.12</xmax>
+      <ymax>487.26</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>giraffe</name>
+    <bndbox>
+      <xmin>336.88</xmin>
+      <ymin>270.36</ymin>
+      <xmax>400.84</xmax>
+      <ymax>394.43</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>giraffe</name>
+    <bndbox>
+      <xmin>47.71</xmin>
+      <ymin>300.65</ymin>
+      <xmax>100.92</xmax>
+      <ymax>512.06</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

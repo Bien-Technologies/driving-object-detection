@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2014_instance/stop sign</folder>
+  <filename>000000172856.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000172856.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>stop sign</name>
+    <bndbox>
+      <xmin>131.72</xmin>
+      <ymin>195.35</ymin>
+      <xmax>277.95</xmax>
+      <ymax>395.15999999999997</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

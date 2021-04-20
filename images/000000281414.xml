@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/cell phone</folder>
+  <filename>000000281414.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000281414.jpg</url>
+  </source>
+  <size>
+    <width>443</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cell phone</name>
+    <bndbox>
+      <xmin>200.06</xmin>
+      <ymin>249.56</ymin>
+      <xmax>230.76</xmax>
+      <ymax>262.14</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>64.14</xmin>
+      <ymin>107.92</ymin>
+      <xmax>316.49</xmax>
+      <ymax>580.24</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>backpack</name>
+    <bndbox>
+      <xmin>285.11</xmin>
+      <ymin>300.36</ymin>
+      <xmax>443.0</xmax>
+      <ymax>403.34000000000003</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

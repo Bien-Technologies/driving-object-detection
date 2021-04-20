@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/bear</folder>
+  <filename>000000173033.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000173033.jpg</url>
+  </source>
+  <size>
+    <width>480</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bear</name>
+    <bndbox>
+      <xmin>182.24</xmin>
+      <ymin>205.68</ymin>
+      <xmax>398.92</xmax>
+      <ymax>494.11</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>bear</name>
+    <bndbox>
+      <xmin>141.99</xmin>
+      <ymin>352.33</ymin>
+      <xmax>231.04000000000002</xmax>
+      <ymax>433.42999999999995</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

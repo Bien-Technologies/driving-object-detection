@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/sink</folder>
+  <filename>000000491071.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000491071.jpg</url>
+  </source>
+  <size>
+    <width>414</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sink</name>
+    <bndbox>
+      <xmin>4.3</xmin>
+      <ymin>408.6</ymin>
+      <xmax>134.70000000000002</xmax>
+      <ymax>455.24</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>sink</name>
+    <bndbox>
+      <xmin>277.57</xmin>
+      <ymin>408.21</ymin>
+      <xmax>408.45</xmax>
+      <ymax>458.54999999999995</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

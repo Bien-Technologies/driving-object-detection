@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/surfboard</folder>
+  <filename>000000356505.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000356505.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>425</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>surfboard</name>
+    <bndbox>
+      <xmin>335.05</xmin>
+      <ymin>342.57</ymin>
+      <xmax>483.22</xmax>
+      <ymax>372.53</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>222.64</xmin>
+      <ymin>85.72</ymin>
+      <xmax>398.62</xmax>
+      <ymax>355.51</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

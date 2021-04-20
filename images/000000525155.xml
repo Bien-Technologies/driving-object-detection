@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/sheep</folder>
+  <filename>000000525155.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000525155.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>426</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sheep</name>
+    <bndbox>
+      <xmin>178.14</xmin>
+      <ymin>32.2</ymin>
+      <xmax>640.0</xmax>
+      <ymax>360.34999999999997</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>263.26</xmin>
+      <ymin>80.48</ymin>
+      <xmax>640.0</xmax>
+      <ymax>419.36</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

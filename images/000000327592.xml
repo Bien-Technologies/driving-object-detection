@@ -1,0 +1,56 @@
+<annotation>
+  <folder>VOC2014_instance/person</folder>
+  <filename>000000327592.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000327592.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>361</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>1.62</xmin>
+      <ymin>1.68</ymin>
+      <xmax>542.72</xmax>
+      <ymax>355.38</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>cake</name>
+    <bndbox>
+      <xmin>230.1</xmin>
+      <ymin>187.41</ymin>
+      <xmax>371.57</xmax>
+      <ymax>236.19</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>spoon</name>
+    <bndbox>
+      <xmin>89.75</xmin>
+      <ymin>105.26</ymin>
+      <xmax>211.19</xmax>
+      <ymax>196.07999999999998</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>388.19</xmin>
+      <ymin>273.8</ymin>
+      <xmax>461.33</xmax>
+      <ymax>330.99</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

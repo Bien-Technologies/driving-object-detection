@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/sandwich</folder>
+  <filename>000000430056.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000430056.jpg</url>
+  </source>
+  <size>
+    <width>500</width>
+    <height>375</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sandwich</name>
+    <bndbox>
+      <xmin>219.1</xmin>
+      <ymin>123.88</ymin>
+      <xmax>400.28</xmax>
+      <ymax>276.4</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>keyboard</name>
+    <bndbox>
+      <xmin>101.94</xmin>
+      <ymin>117.31</ymin>
+      <xmax>500.0</xmax>
+      <ymax>164.55</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>sandwich</name>
+    <bndbox>
+      <xmin>56.49</xmin>
+      <ymin>118.83</ymin>
+      <xmax>232.79000000000002</xmax>
+      <ymax>273.7</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

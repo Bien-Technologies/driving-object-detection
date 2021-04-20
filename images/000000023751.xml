@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2014_instance/kite</folder>
+  <filename>000000023751.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000023751.jpg</url>
+  </source>
+  <size>
+    <width>430</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>kite</name>
+    <bndbox>
+      <xmin>187.61</xmin>
+      <ymin>111.77</ymin>
+      <xmax>289.95000000000005</xmax>
+      <ymax>184.82</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

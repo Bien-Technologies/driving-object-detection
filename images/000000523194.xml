@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/fire hydrant</folder>
+  <filename>000000523194.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000523194.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>425</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>fire hydrant</name>
+    <bndbox>
+      <xmin>175.38</xmin>
+      <ymin>241.88</ymin>
+      <xmax>207.29</xmax>
+      <ymax>310.12</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>stop sign</name>
+    <bndbox>
+      <xmin>526.22</xmin>
+      <ymin>88.6</ymin>
+      <xmax>585.53</xmax>
+      <ymax>139.94</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

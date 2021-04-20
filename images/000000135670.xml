@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2014_instance/bicycle</folder>
+  <filename>000000135670.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000135670.jpg</url>
+  </source>
+  <size>
+    <width>375</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bicycle</name>
+    <bndbox>
+      <xmin>196.77</xmin>
+      <ymin>199.69</ymin>
+      <xmax>301.83000000000004</xmax>
+      <ymax>373.27</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

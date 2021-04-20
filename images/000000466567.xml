@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2014_instance/donut</folder>
+  <filename>000000466567.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000466567.jpg</url>
+  </source>
+  <size>
+    <width>480</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>donut</name>
+    <bndbox>
+      <xmin>104.99</xmin>
+      <ymin>227.24</ymin>
+      <xmax>358.11</xmax>
+      <ymax>463.1</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

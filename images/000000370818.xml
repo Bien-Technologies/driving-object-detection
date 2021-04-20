@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/potted plant</folder>
+  <filename>000000370818.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000370818.jpg</url>
+  </source>
+  <size>
+    <width>472</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>208.62</ymin>
+      <xmax>28.13</xmax>
+      <ymax>276.43</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>toilet</name>
+    <bndbox>
+      <xmin>1.27</xmin>
+      <ymin>592.47</ymin>
+      <xmax>70.75</xmax>
+      <ymax>640.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>sink</name>
+    <bndbox>
+      <xmin>214.77</xmin>
+      <ymin>452.58</ymin>
+      <xmax>469.62</xmax>
+      <ymax>584.3</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

@@ -1,0 +1,56 @@
+<annotation>
+  <folder>VOC2014_instance/horse</folder>
+  <filename>000000481480.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000481480.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>444</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>horse</name>
+    <bndbox>
+      <xmin>222.48</xmin>
+      <ymin>265.21</ymin>
+      <xmax>371.94</xmax>
+      <ymax>344.30999999999995</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>horse</name>
+    <bndbox>
+      <xmin>11.46</xmin>
+      <ymin>260.67</ymin>
+      <xmax>159.46</xmax>
+      <ymax>330.37</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>81.95</xmin>
+      <ymin>259.15</ymin>
+      <xmax>126.73</xmax>
+      <ymax>290.88</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>294.0</xmin>
+      <ymin>262.14</ymin>
+      <xmax>344.34000000000003</xmax>
+      <ymax>299.56</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

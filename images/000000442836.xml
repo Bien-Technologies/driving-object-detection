@@ -1,0 +1,56 @@
+<annotation>
+  <folder>VOC2014_instance/person</folder>
+  <filename>000000442836.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000442836.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>457</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>136.11</xmin>
+      <ymin>37.44</ymin>
+      <xmax>257.21000000000004</xmax>
+      <ymax>417.58</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>300.9</xmin>
+      <ymin>142.82</ymin>
+      <xmax>449.80999999999995</xmax>
+      <ymax>410.84999999999997</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>frisbee</name>
+    <bndbox>
+      <xmin>406.68</xmin>
+      <ymin>271.27</ymin>
+      <xmax>450.84000000000003</xmax>
+      <ymax>316.45</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>47.24</xmin>
+      <ymin>150.87</ymin>
+      <xmax>116.56</xmax>
+      <ymax>349.34000000000003</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

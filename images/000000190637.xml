@@ -1,0 +1,56 @@
+<annotation>
+  <folder>VOC2014_instance/remote</folder>
+  <filename>000000190637.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000190637.jpg</url>
+  </source>
+  <size>
+    <width>428</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>remote</name>
+    <bndbox>
+      <xmin>312.66</xmin>
+      <ymin>267.87</ymin>
+      <xmax>374.24</xmax>
+      <ymax>359.15</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>remote</name>
+    <bndbox>
+      <xmin>19.22</xmin>
+      <ymin>369.8</ymin>
+      <xmax>81.13</xmax>
+      <ymax>418.78000000000003</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>1.66</xmin>
+      <ymin>147.67</ymin>
+      <xmax>428.0</xmax>
+      <ymax>631.41</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>14.25</xmin>
+      <ymin>182.44</ymin>
+      <xmax>378.43</xmax>
+      <ymax>421.94</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

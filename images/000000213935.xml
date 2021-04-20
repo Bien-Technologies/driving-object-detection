@@ -1,0 +1,56 @@
+<annotation>
+  <folder>VOC2014_instance/apple</folder>
+  <filename>000000213935.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000213935.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>425</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>327.0</xmin>
+      <ymin>42.0</ymin>
+      <xmax>607.0</xmax>
+      <ymax>321.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>21.99</ymin>
+      <xmax>247.83</xmax>
+      <ymax>419.12</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>orange</name>
+    <bndbox>
+      <xmin>60.0</xmin>
+      <ymin>136.0</ymin>
+      <xmax>338.0</xmax>
+      <ymax>417.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>501.37</xmin>
+      <ymin>0.0</ymin>
+      <xmax>640.0</xmax>
+      <ymax>194.3</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

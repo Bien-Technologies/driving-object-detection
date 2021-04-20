@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2014_instance/bed</folder>
+  <filename>000000217219.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000217219.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>359</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>0.81</xmin>
+      <ymin>2.47</ymin>
+      <xmax>639.75</xmax>
+      <ymax>353.41</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/pizza</folder>
+  <filename>000000194746.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000194746.jpg</url>
+  </source>
+  <size>
+    <width>500</width>
+    <height>375</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>pizza</name>
+    <bndbox>
+      <xmin>194.2</xmin>
+      <ymin>113.35</ymin>
+      <xmax>351.73</xmax>
+      <ymax>166.3</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>oven</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>0.0</ymin>
+      <xmax>499.99</xmax>
+      <ymax>375.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

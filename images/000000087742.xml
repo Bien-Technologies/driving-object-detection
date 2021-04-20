@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2014_instance/vase</folder>
+  <filename>000000087742.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000087742.jpg</url>
+  </source>
+  <size>
+    <width>400</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>vase</name>
+    <bndbox>
+      <xmin>150.18</xmin>
+      <ymin>377.82</ymin>
+      <xmax>214.09</xmax>
+      <ymax>473.25</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

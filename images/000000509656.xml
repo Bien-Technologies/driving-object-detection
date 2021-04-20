@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/zebra</folder>
+  <filename>000000509656.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000509656.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>zebra</name>
+    <bndbox>
+      <xmin>119.73</xmin>
+      <ymin>129.44</ymin>
+      <xmax>429.3</xmax>
+      <ymax>469.21</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>zebra</name>
+    <bndbox>
+      <xmin>251.64</xmin>
+      <ymin>196.98</ymin>
+      <xmax>383.59</xmax>
+      <ymax>322.26</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

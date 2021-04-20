@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2014_instance/cat</folder>
+  <filename>000000304560.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000304560.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>425</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cat</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>101.15</ymin>
+      <xmax>452.3</xmax>
+      <ymax>420.58000000000004</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

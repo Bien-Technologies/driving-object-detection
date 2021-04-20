@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2014_instance/bus</folder>
+  <filename>000000387387.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000387387.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bus</name>
+    <bndbox>
+      <xmin>41.44</xmin>
+      <ymin>211.76</ymin>
+      <xmax>611.4100000000001</xmax>
+      <ymax>378.81</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

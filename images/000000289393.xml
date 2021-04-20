@@ -1,0 +1,56 @@
+<annotation>
+  <folder>VOC2014_instance/bird</folder>
+  <filename>000000289393.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000289393.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>522.6</xmin>
+      <ymin>333.02</ymin>
+      <xmax>639.9100000000001</xmax>
+      <ymax>473.78</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>giraffe</name>
+    <bndbox>
+      <xmin>32.85</xmin>
+      <ymin>86.02</ymin>
+      <xmax>274.81</xmax>
+      <ymax>234.81</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>cow</name>
+    <bndbox>
+      <xmin>81.22</xmin>
+      <ymin>200.52</ymin>
+      <xmax>356.15999999999997</xmax>
+      <ymax>411.94</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>20.49</ymin>
+      <xmax>38.83</xmax>
+      <ymax>317.12</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>
