@@ -32,14 +32,20 @@ def xml_to_csv(path):
         tree = ET.parse(xml_file)
         root = tree.getroot()
         for member in root.findall('object'):
+            bndbox = member.find("bndbox")
             value = (root.find('filename').text,
                     round(float(root.find('size')[0].text)),
                     round(float(root.find('size')[1].text)),
                     member[0].text,
-                    round(float(member[4][0].text)),
-                    round(float(member[4][1].text)),
-                    round(float(member[4][2].text)),
-                    round(float(member[4][3].text))
+                    round(float(bndbox.find("xmin").text)),
+                    round(float(bndbox.find("ymin").text)),
+                    round(float(bndbox.find("xmax").text)),
+                    round(float(bndbox.find("ymax").text))
+
+                    # round(float(member[4][0].text)),
+                    # round(float(member[4][1].text)),
+                    # round(float(member[4][2].text)),
+                    # round(float(member[4][3].text))
                     )
             xml_list.append(value)
     column_name = ['filename', 'width', 'height',

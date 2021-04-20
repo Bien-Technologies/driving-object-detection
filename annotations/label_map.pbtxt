@@ -1,6 +1,7 @@
 item {
  id: 1
- name: 'person'
+ name: 'person',
+ display_name: 'person'
 }
 
 item {
@@ -45,22 +46,26 @@ item {
 
 item {
  id: 10
- name: 'traffic light'
+ name: 'trafficlight',
+ display_name: 'traffic light'
 }
 
 item {
  id: 11
- name: 'fire hydrant'
+ name: 'firehydrant',
+ display_name: 'fire hydrant'
 }
 
 item {
  id: 12
- name: 'stop sign'
+ name: 'stopsign',
+ display_name: 'stop sign'
 }
 
 item {
  id: 13
- name: 'parking meter'
+ name: 'parkingmeter',
+ display_name: 'parking meter'
 }
 
 item {
@@ -160,7 +165,8 @@ item {
 
 item {
  id: 32
- name: 'sport ball'
+ name: 'sportsball',
+ display_name: 'sports ball'
 }
 
 item {
@@ -170,12 +176,14 @@ item {
 
 item {
  id: 34
- name: 'baseball bat'
+ name: 'baseballbat',
+ display_name: 'baseball bat'
 }
 
 item {
  id: 35
- name: 'baseball glove'
+ name: 'baseballglove',
+ display_name: 'baseball glove'
 }
 
 item {
@@ -190,7 +198,8 @@ item {
 
 item {
  id: 38
- name: 'tennis racket'
+ name: 'tennisracket',
+ display_name: 'tennis racket'
 }
 
 item {
@@ -200,7 +209,8 @@ item {
 
 item {
  id: 40
- name: 'wine glass'
+ name: 'wineglass',
+ display_name: 'wine glass'
 }
 
 item {
@@ -260,7 +270,8 @@ item {
 
 item {
  id: 52
- name: 'hot dog'
+ name: 'hotdog',
+ display_name: 'hot dog'
 }
 
 item {
@@ -290,7 +301,8 @@ item {
 
 item {
  id: 58
- name: 'potted plant'
+ name: 'pottedplant',
+ display_name: 'potted plant'
 }
 
 item {
@@ -300,7 +312,8 @@ item {
 
 item {
  id: 60
- name: 'dining table'
+ name: 'diningtable',
+ display_name: 'dining table'
 }
 
 item {
@@ -335,7 +348,8 @@ item {
 
 item {
  id: 67
- name: 'cell phone'
+ name: 'cellphone',
+ display_name: 'call phone'
 }
 
 item {
@@ -385,12 +399,14 @@ item {
 
 item {
  id: 77
- name: 'teddy bear'
+ name: 'teddybear',
+ display_name: 'teddy bear'
 }
 
 item {
  id: 78
- name: 'hair drier'
+ name: 'hairdrier',
+ display_name: 'hair drier'
 }
 
 item {
