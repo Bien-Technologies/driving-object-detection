@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/bird</folder>
+  <filename>000000019042.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000019042.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>371</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>308.22</xmin>
+      <ymin>165.01</ymin>
+      <xmax>329.24</xmax>
+      <ymax>205.29</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>344.99</xmin>
+      <ymin>1.17</ymin>
+      <xmax>391.53000000000003</xmax>
+      <ymax>11.81</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>221.09</xmin>
+      <ymin>8.21</ymin>
+      <xmax>246.54</xmax>
+      <ymax>13.05</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/person</folder>
+  <filename>000000384136.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000384136.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>414</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>228.86</xmin>
+      <ymin>70.71</ymin>
+      <xmax>465.17</xmax>
+      <ymax>409.34999999999997</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>hair drier</name>
+    <bndbox>
+      <xmin>315.51</xmin>
+      <ymin>187.84</ymin>
+      <xmax>398.74</xmax>
+      <ymax>414.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

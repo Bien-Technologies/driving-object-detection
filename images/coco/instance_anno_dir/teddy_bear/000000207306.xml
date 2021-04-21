@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/person</folder>
+  <filename>000000207306.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000207306.jpg</url>
+  </source>
+  <size>
+    <width>375</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>85.27</xmin>
+      <ymin>177.25</ymin>
+      <xmax>99.49</xmax>
+      <ymax>208.27</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>46.07</xmin>
+      <ymin>148.31</ymin>
+      <xmax>268.54</xmax>
+      <ymax>353.93</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

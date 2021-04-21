@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/bicycle</folder>
+  <filename>000000256941.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000256941.jpg</url>
+  </source>
+  <size>
+    <width>332</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bicycle</name>
+    <bndbox>
+      <xmin>107.77</xmin>
+      <ymin>226.03</ymin>
+      <xmax>282.36</xmax>
+      <ymax>500.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>bicycle</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>250.54</ymin>
+      <xmax>86.02</xmax>
+      <ymax>494.62</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>umbrella</name>
+    <bndbox>
+      <xmin>21.81</xmin>
+      <ymin>0.0</ymin>
+      <xmax>332.0</xmax>
+      <ymax>106.06</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

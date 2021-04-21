@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/traffic light</folder>
+  <filename>000000449198.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000449198.jpg</url>
+  </source>
+  <size>
+    <width>500</width>
+    <height>333</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>33.4</xmin>
+      <ymin>118.7</ymin>
+      <xmax>42.53</xmax>
+      <ymax>132.87</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>stop sign</name>
+    <bndbox>
+      <xmin>284.08</xmin>
+      <ymin>159.15</ymin>
+      <xmax>292.64</xmax>
+      <ymax>169.56</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

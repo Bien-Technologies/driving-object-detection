@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/dog</folder>
+  <filename>000000125405.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000125405.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>428</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dog</name>
+    <bndbox>
+      <xmin>220.9</xmin>
+      <ymin>109.24</ymin>
+      <xmax>383.13</xmax>
+      <ymax>406.08</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>dog</name>
+    <bndbox>
+      <xmin>450.09</xmin>
+      <ymin>4.6</ymin>
+      <xmax>580.79</xmax>
+      <ymax>171.2</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>frisbee</name>
+    <bndbox>
+      <xmin>234.24</xmin>
+      <ymin>234.65</ymin>
+      <xmax>316.54</xmax>
+      <ymax>284.66</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

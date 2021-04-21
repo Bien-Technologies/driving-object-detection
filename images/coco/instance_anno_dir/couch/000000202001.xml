@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/couch</folder>
+  <filename>000000202001.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000202001.jpg</url>
+  </source>
+  <size>
+    <width>500</width>
+    <height>461</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>couch</name>
+    <bndbox>
+      <xmin>0.99</xmin>
+      <ymin>284.53</ymin>
+      <xmax>500.0</xmax>
+      <ymax>461.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>cell phone</name>
+    <bndbox>
+      <xmin>44.24</xmin>
+      <ymin>228.57</ymin>
+      <xmax>85.28999999999999</xmax>
+      <ymax>276.46999999999997</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>51.57</xmin>
+      <ymin>50.63</ymin>
+      <xmax>455.84</xmax>
+      <ymax>455.94</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

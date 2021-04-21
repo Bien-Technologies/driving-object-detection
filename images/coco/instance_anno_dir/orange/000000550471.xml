@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/fork</folder>
+  <filename>000000550471.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000550471.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>425</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>fork</name>
+    <bndbox>
+      <xmin>224.44</xmin>
+      <ymin>7.35</ymin>
+      <xmax>340.0</xmax>
+      <ymax>201.23</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>orange</name>
+    <bndbox>
+      <xmin>254.0</xmin>
+      <ymin>179.0</ymin>
+      <xmax>587.0</xmax>
+      <ymax>367.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

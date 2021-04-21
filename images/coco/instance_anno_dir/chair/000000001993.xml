@@ -1,0 +1,56 @@
+<annotation>
+  <folder>VOC2014_instance/bed</folder>
+  <filename>000000001993.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000001993.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>419</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>258.93</xmin>
+      <ymin>194.91</ymin>
+      <xmax>614.85</xmax>
+      <ymax>414.28999999999996</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>chair</name>
+    <bndbox>
+      <xmin>109.22</xmin>
+      <ymin>250.46</ymin>
+      <xmax>227.86</xmax>
+      <ymax>408.64</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>chair</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>298.68</ymin>
+      <xmax>35.15</xmax>
+      <ymax>408.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>dining table</name>
+    <bndbox>
+      <xmin>0.04</xmin>
+      <ymin>251.11</ymin>
+      <xmax>154.42999999999998</xmax>
+      <ymax>419.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

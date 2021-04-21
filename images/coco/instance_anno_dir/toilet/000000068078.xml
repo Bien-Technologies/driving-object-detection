@@ -1,0 +1,56 @@
+<annotation>
+  <folder>VOC2014_instance/dog</folder>
+  <filename>000000068078.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000068078.jpg</url>
+  </source>
+  <size>
+    <width>360</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dog</name>
+    <bndbox>
+      <xmin>29.0</xmin>
+      <ymin>492.01</ymin>
+      <xmax>101.51</xmax>
+      <ymax>626.74</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>273.57</xmin>
+      <ymin>276.86</ymin>
+      <xmax>304.32</xmax>
+      <ymax>347.89</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>toilet</name>
+    <bndbox>
+      <xmin>176.9</xmin>
+      <ymin>346.37</ymin>
+      <xmax>360.0</xmax>
+      <ymax>631.13</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>sink</name>
+    <bndbox>
+      <xmin>140.0</xmin>
+      <ymin>295.49</ymin>
+      <xmax>311.08000000000004</xmax>
+      <ymax>499.99</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/hot dog</folder>
+  <filename>000000581206.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000581206.jpg</url>
+  </source>
+  <size>
+    <width>479</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hot dog</name>
+    <bndbox>
+      <xmin>147.27</xmin>
+      <ymin>282.15</ymin>
+      <xmax>393.63</xmax>
+      <ymax>488.59999999999997</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>hot dog</name>
+    <bndbox>
+      <xmin>39.91</xmin>
+      <ymin>140.73</ymin>
+      <xmax>348.22</xmax>
+      <ymax>373.33</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>2.53</ymin>
+      <xmax>469.53</xmax>
+      <ymax>217.79</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

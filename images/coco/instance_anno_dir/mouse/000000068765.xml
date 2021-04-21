@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/keyboard</folder>
+  <filename>000000068765.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000068765.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>keyboard</name>
+    <bndbox>
+      <xmin>1.08</xmin>
+      <ymin>27.04</ymin>
+      <xmax>574.9200000000001</xmax>
+      <ymax>470.36</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>1.24</xmin>
+      <ymin>57.35</ymin>
+      <xmax>156.68</xmax>
+      <ymax>199.10999999999999</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

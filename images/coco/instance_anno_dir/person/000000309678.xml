@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/person</folder>
+  <filename>000000309678.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000309678.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>411</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>60.17</ymin>
+      <xmax>191.61</xmax>
+      <ymax>268.45</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>dining table</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>1.07</ymin>
+      <xmax>596.75</xmax>
+      <ymax>411.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>pizza</name>
+    <bndbox>
+      <xmin>85.24</xmin>
+      <ymin>92.35</ymin>
+      <xmax>544.96</xmax>
+      <ymax>324.74</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

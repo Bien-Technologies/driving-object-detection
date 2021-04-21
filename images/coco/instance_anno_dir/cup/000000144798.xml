@@ -1,0 +1,56 @@
+<annotation>
+  <folder>VOC2014_instance/bottle</folder>
+  <filename>000000144798.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000144798.jpg</url>
+  </source>
+  <size>
+    <width>425</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>386.63</xmin>
+      <ymin>163.28</ymin>
+      <xmax>425.0</xmax>
+      <ymax>251.51999999999998</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>toilet</name>
+    <bndbox>
+      <xmin>156.06</xmin>
+      <ymin>458.3</ymin>
+      <xmax>425.0</xmax>
+      <ymax>631.55</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>book</name>
+    <bndbox>
+      <xmin>32.44</xmin>
+      <ymin>395.13</ymin>
+      <xmax>125.09</xmax>
+      <ymax>496.55</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>cup</name>
+    <bndbox>
+      <xmin>181.85</xmin>
+      <ymin>188.97</ymin>
+      <xmax>231.16</xmax>
+      <ymax>265.77</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

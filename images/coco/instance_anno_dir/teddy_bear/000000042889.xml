@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/keyboard</folder>
+  <filename>000000042889.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000042889.jpg</url>
+  </source>
+  <size>
+    <width>375</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>keyboard</name>
+    <bndbox>
+      <xmin>63.9</xmin>
+      <ymin>376.79</ymin>
+      <xmax>349.78</xmax>
+      <ymax>500.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>58.43</xmin>
+      <ymin>49.44</ymin>
+      <xmax>343.82</xmax>
+      <ymax>350.56</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/stop sign</folder>
+  <filename>000000565153.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000565153.jpg</url>
+  </source>
+  <size>
+    <width>379</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>stop sign</name>
+    <bndbox>
+      <xmin>109.95</xmin>
+      <ymin>164.17</ymin>
+      <xmax>167.17000000000002</xmax>
+      <ymax>220.41</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>parking meter</name>
+    <bndbox>
+      <xmin>163.49</xmin>
+      <ymin>304.56</ymin>
+      <xmax>200.49</xmax>
+      <ymax>371.07</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

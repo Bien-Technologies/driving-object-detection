@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/airplane</folder>
+  <filename>000000520324.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000520324.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>airplane</name>
+    <bndbox>
+      <xmin>191.7</xmin>
+      <ymin>244.19</ymin>
+      <xmax>640.0</xmax>
+      <ymax>356.13</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>airplane</name>
+    <bndbox>
+      <xmin>206.85</xmin>
+      <ymin>218.01</ymin>
+      <xmax>352.52</xmax>
+      <ymax>275.87</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>172.51</xmin>
+      <ymin>264.49</ymin>
+      <xmax>182.70999999999998</xmax>
+      <ymax>274.54</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

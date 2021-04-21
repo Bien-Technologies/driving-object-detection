@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/parking meter</folder>
+  <filename>000000328683.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000328683.jpg</url>
+  </source>
+  <size>
+    <width>480</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>parking meter</name>
+    <bndbox>
+      <xmin>163.59</xmin>
+      <ymin>36.04</ymin>
+      <xmax>298.48</xmax>
+      <ymax>239.81</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>169.84</xmin>
+      <ymin>251.88</ymin>
+      <xmax>220.04000000000002</xmax>
+      <ymax>499.58</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/bowl</folder>
+  <filename>000000507235.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000507235.jpg</url>
+  </source>
+  <size>
+    <width>612</width>
+    <height>612</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bowl</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>161.69</ymin>
+      <xmax>612.0</xmax>
+      <ymax>543.6800000000001</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>bowl</name>
+    <bndbox>
+      <xmin>68.76</xmin>
+      <ymin>0.0</ymin>
+      <xmax>353.45</xmax>
+      <ymax>149.91</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>dining table</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>55.68</ymin>
+      <xmax>610.63</xmax>
+      <ymax>612.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

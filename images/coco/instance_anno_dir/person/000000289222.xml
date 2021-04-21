@@ -1,0 +1,66 @@
+<annotation>
+  <folder>VOC2014_instance/traffic light</folder>
+  <filename>000000289222.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000289222.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>259.96</xmin>
+      <ymin>193.08</ymin>
+      <xmax>372.13</xmax>
+      <ymax>295.55</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>415.28</xmin>
+      <ymin>84.13</ymin>
+      <xmax>558.74</xmax>
+      <ymax>394.79</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>151.98</xmin>
+      <ymin>299.19</ymin>
+      <xmax>370.79999999999995</xmax>
+      <ymax>399.86</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>bus</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>384.34</ymin>
+      <xmax>142.23</xmax>
+      <ymax>479.67999999999995</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>299.03</xmin>
+      <ymin>415.86</ymin>
+      <xmax>358.79999999999995</xmax>
+      <ymax>480.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

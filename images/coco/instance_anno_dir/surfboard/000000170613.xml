@@ -1,0 +1,56 @@
+<annotation>
+  <folder>VOC2014_instance/person</folder>
+  <filename>000000170613.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000170613.jpg</url>
+  </source>
+  <size>
+    <width>439</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>23.56</xmin>
+      <ymin>161.78</ymin>
+      <xmax>224.31</xmax>
+      <ymax>497.44000000000005</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>surfboard</name>
+    <bndbox>
+      <xmin>205.89</xmin>
+      <ymin>251.52</ymin>
+      <xmax>414.74</xmax>
+      <ymax>359.25</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>surfboard</name>
+    <bndbox>
+      <xmin>28.76</xmin>
+      <ymin>158.51</ymin>
+      <xmax>142.02</xmax>
+      <ymax>370.13</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>263.9</xmin>
+      <ymin>180.15</ymin>
+      <xmax>404.53999999999996</xmax>
+      <ymax>451.95000000000005</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

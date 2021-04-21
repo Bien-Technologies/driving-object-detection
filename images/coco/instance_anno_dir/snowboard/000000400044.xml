@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/snowboard</folder>
+  <filename>000000400044.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000400044.jpg</url>
+  </source>
+  <size>
+    <width>483</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>snowboard</name>
+    <bndbox>
+      <xmin>249.55</xmin>
+      <ymin>468.28</ymin>
+      <xmax>483.0</xmax>
+      <ymax>562.0899999999999</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>181.67</xmin>
+      <ymin>309.74</ymin>
+      <xmax>435.9</xmax>
+      <ymax>540.94</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

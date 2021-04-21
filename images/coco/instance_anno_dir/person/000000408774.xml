@@ -1,0 +1,76 @@
+<annotation>
+  <folder>VOC2014_instance/person</folder>
+  <filename>000000408774.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000408774.jpg</url>
+  </source>
+  <size>
+    <width>500</width>
+    <height>333</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>166.3</xmin>
+      <ymin>124.12</ymin>
+      <xmax>215.86</xmax>
+      <ymax>212.26</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.75</xmin>
+      <ymin>109.25</ymin>
+      <xmax>32.18</xmax>
+      <ymax>330.01</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>219.26</xmin>
+      <ymin>162.38</ymin>
+      <xmax>282.11</xmax>
+      <ymax>181.84</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>33.79</xmin>
+      <ymin>135.25</ymin>
+      <xmax>86.18</xmax>
+      <ymax>218.43</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>baseball glove</name>
+    <bndbox>
+      <xmin>220.91</xmin>
+      <ymin>174.65</ymin>
+      <xmax>227.62</xmax>
+      <ymax>180.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>baseball glove</name>
+    <bndbox>
+      <xmin>165.84</xmin>
+      <ymin>172.64</ymin>
+      <xmax>177.44</xmax>
+      <ymax>186.05999999999997</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

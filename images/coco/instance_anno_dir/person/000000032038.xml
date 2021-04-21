@@ -1,0 +1,56 @@
+<annotation>
+  <folder>VOC2014_instance/person</folder>
+  <filename>000000032038.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/val2017/000000032038.jpg</url>
+  </source>
+  <size>
+    <width>333</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>1.17</ymin>
+      <xmax>97.32</xmax>
+      <ymax>139.95</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>pizza</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>121.35</ymin>
+      <xmax>330.34</xmax>
+      <ymax>297.75</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>148.36</xmin>
+      <ymin>60.21</ymin>
+      <xmax>199.73000000000002</xmax>
+      <ymax>110.95</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>dining table</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>244.16</ymin>
+      <xmax>332.47</xmax>
+      <ymax>397.4</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>
