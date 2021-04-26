@@ -1,7 +1,7 @@
 <annotation verified="yes">
     <folder>Annotation</folder>
     <filename>can_img46.jpg</filename>
-    <path>robo_images-PascalVOC-export/Annotations/can_img46.jpg</path>
+    <path>can_img-PascalVOC-export/Annotations/can_img46.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>129.40679000595867</xmin>
-        <ymin>44.74576529809984</ymin>
-        <xmax>406.01698018736755</xmax>
-        <ymax>546.44066762116</ymax>
+        <xmin>127.39931448157668</xmin>
+        <ymin>55.542857142857144</ymin>
+        <xmax>396.1225364181662</xmax>
+        <ymax>547.8857142857144</ymax>
     </bndbox>
 </object><object>
     <name>can</name>
@@ -28,10 +28,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>406.69493594412074</xmin>
-        <ymin>65.0847483489473</ymin>
-        <xmax>587.7118644067796</xmax>
-        <ymax>471.86439643471925</ymax>
+        <xmin>407.0908311910882</xmin>
+        <ymin>65.14285714285714</ymin>
+        <xmax>568.873179091688</xmax>
+        <ymax>493.71428571428567</ymax>
     </bndbox>
 </object><object>
     <name>can</name>
@@ -39,10 +39,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>592.4576581534692</xmin>
-        <ymin>61.01694915254237</ymin>
-        <xmax>788.3898718882415</xmax>
-        <ymax>476.6101901814088</ymax>
+        <xmin>579.1559554413025</xmin>
+        <ymin>63.08571428571429</ymin>
+        <xmax>781.3838903170522</xmax>
+        <ymax>501.25714285714287</ymax>
     </bndbox>
 </object>
 </annotation>

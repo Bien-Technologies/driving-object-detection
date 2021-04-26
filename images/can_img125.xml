@@ -1,7 +1,7 @@
 <annotation verified="yes">
     <folder>Annotation</folder>
     <filename>can_img125.jpg</filename>
-    <path>robo_images-PascalVOC-export/Annotations/can_img125.jpg</path>
+    <path>can_img-PascalVOC-export/Annotations/can_img125.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>138.8982999122749</xmin>
-        <ymin>114.57626860020524</ymin>
-        <xmax>599.9152749271716</xmax>
-        <ymax>523.3898615432997</ymax>
+        <xmin>130.68432671081678</xmin>
+        <ymin>118.8970588235294</ymin>
+        <xmax>602.2075055187638</xmax>
+        <ymax>530.0735294117648</ymax>
     </bndbox>
 </object>
 </annotation>

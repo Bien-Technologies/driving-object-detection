@@ -1,7 +1,7 @@
 <annotation verified="yes">
     <folder>Annotation</folder>
     <filename>adimg33.jpg</filename>
-    <path>additional_can_images-PascalVOC-export/Annotations/adimg33.jpg</path>
+    <path>can_img-PascalVOC-export/Annotations/adimg33.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>12.596026490066226</xmin>
-        <ymin>18.288064427312776</ymin>
-        <xmax>83.27373068432671</xmax>
-        <ymax>132.45987059471366</ymax>
+        <xmin>16.34495279593319</xmin>
+        <ymin>24.58488603473227</ymin>
+        <xmax>78.27160493827161</xmax>
+        <ymax>130.66158646888567</ymax>
     </bndbox>
 </object><object>
     <name>can</name>
@@ -28,10 +28,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>87.47240618101546</xmin>
-        <ymin>18.288064427312776</ymin>
-        <xmax>156.7505518763797</xmax>
-        <ymax>133.86075165198238</ymax>
+        <xmin>89.09150326797386</xmin>
+        <ymin>23.894582127351665</ymin>
+        <xmax>152.1692084241104</xmax>
+        <ymax>129.97128256150506</ymax>
     </bndbox>
 </object><object>
     <name>can</name>
@@ -39,10 +39,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>162.34878587196468</xmin>
-        <ymin>14.085421255506608</ymin>
-        <xmax>226.72847682119206</xmax>
-        <ymax>132.45987059471366</ymax>
+        <xmin>165.5214233841685</xmin>
+        <ymin>23.204278219971055</ymin>
+        <xmax>222.84386347131445</xmax>
+        <ymax>130.43148516642546</ymax>
     </bndbox>
 </object><object>
     <name>can</name>
@@ -50,10 +50,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>234.42604856512142</xmin>
-        <ymin>16.887183370044053</ymin>
-        <xmax>301.6048565121413</xmax>
-        <ymax>134.56119218061673</ymax>
+        <xmin>235.96586782861294</xmin>
+        <ymin>23.664480824891463</ymin>
+        <xmax>298.81336238198986</xmax>
+        <ymax>131.12178907380607</ymax>
     </bndbox>
 </object>
 </annotation>

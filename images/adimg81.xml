@@ -1,7 +1,7 @@
 <annotation verified="yes">
     <folder>Annotation</folder>
     <filename>adimg81.jpg</filename>
-    <path>additional_can_images-PascalVOC-export/Annotations/adimg81.jpg</path>
+    <path>can_img-PascalVOC-export/Annotations/adimg81.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>0.4966887417218543</xmin>
-        <ymin>1.4900662251655628</ymin>
-        <xmax>220.03311258278143</xmax>
-        <ymax>221.02649006622514</ymax>
+        <xmin>2.571428571428571</xmin>
+        <ymin>0.2571428571428571</ymin>
+        <xmax>218.57142857142856</xmax>
+        <ymax>219.85714285714283</ymax>
     </bndbox>
 </object>
 </annotation>

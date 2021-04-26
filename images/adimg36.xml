@@ -1,7 +1,7 @@
 <annotation verified="yes">
     <folder>Annotation</folder>
     <filename>adimg36.jpg</filename>
-    <path>additional_can_images-PascalVOC-export/Annotations/adimg36.jpg</path>
+    <path>can_img-PascalVOC-export/Annotations/adimg36.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
@@ -17,87 +17,120 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
+        <xmin>0.2661290322580645</xmin>
+        <ymin>0.21828571428571428</ymin>
+        <xmax>53.54652605459057</xmax>
+        <ymax>38.63657142857143</ymax>
+    </bndbox>
+</object><object>
+    <name>can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>33.02047146401985</xmin>
+        <ymin>6.766857142857143</ymin>
+        <xmax>133.46712158808933</xmax>
+        <ymax>75.09028571428571</ymax>
+    </bndbox>
+</object><object>
+    <name>can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>127.3529776674938</xmin>
+        <ymin>0.8731428571428571</ymin>
+        <xmax>227.58126550868488</xmax>
+        <ymax>36.672000000000004</ymax>
+    </bndbox>
+</object><object>
+    <name>can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>223.43238213399505</xmin>
+        <ymin>0.43657142857142855</ymin>
+        <xmax>263.8294044665013</xmax>
+        <ymax>61.556571428571424</ymax>
+    </bndbox>
+</object><object>
+    <name>can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>134.99565756823822</xmin>
+        <ymin>40.81942857142857</ymin>
+        <xmax>238.06265508684862</xmax>
+        <ymax>111.98057142857141</ymax>
+    </bndbox>
+</object><object>
+    <name>can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>35.42245657568238</xmin>
+        <ymin>79.23771428571428</ymin>
+        <xmax>140.67307692307693</xmax>
+        <ymax>156.0742857142857</ymax>
+    </bndbox>
+</object><object>
+    <name>can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>234.13213399503724</xmin>
+        <ymin>70.50628571428571</ymin>
+        <xmax>262.9559553349876</xmax>
+        <ymax>137.08342857142856</ymax>
+    </bndbox>
+</object><object>
+    <name>can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>138.7078163771712</xmin>
+        <ymin>113.94514285714286</ymin>
+        <xmax>249.19913151364764</xmax>
+        <ymax>175.28342857142857</ymax>
+    </bndbox>
+</object><object>
+    <name>can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>43.50186104218363</xmin>
+        <ymin>156.72914285714285</ymin>
+        <xmax>140.2363523573201</xmax>
+        <ymax>175.28342857142857</ymax>
+    </bndbox>
+</object><object>
+    <name>can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0.4844913151364764</xmin>
+        <ymin>124.64114285714285</ymin>
+        <xmax>45.03039702233251</xmax>
+        <ymax>175.28342857142857</ymax>
+    </bndbox>
+</object><object>
+    <name>can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
         <xmin>0</xmin>
-        <ymin>0.8006859756097561</ymin>
-        <xmax>57.69536423841059</xmax>
-        <ymax>39.81592987804878</ymax>
-    </bndbox>
-</object><object>
-    <name>can</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-        <xmin>33.21854304635762</xmin>
-        <ymin>3.129954268292683</ymin>
-        <xmax>134.6225165562914</xmax>
-        <ymax>73.59032012195121</ymax>
-    </bndbox>
-</object><object>
-    <name>can</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-        <xmin>125.2980132450331</xmin>
-        <ymin>0</ymin>
-        <xmax>234.27814569536423</xmax>
-        <ymax>40.98056402439024</ymax>
-    </bndbox>
-</object><object>
-    <name>can</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-        <xmin>131.12582781456953</xmin>
-        <ymin>38.06897865853658</ymin>
-        <xmax>243.01986754966887</xmax>
-        <ymax>114.35251524390243</ymax>
-    </bndbox>
-</object><object>
-    <name>can</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-        <xmin>32.05298013245033</xmin>
-        <ymin>78.24885670731707</ymin>
-        <xmax>146.86092715231786</xmax>
-        <ymax>156.86166158536585</ymax>
-    </bndbox>
-</object><object>
-    <name>can</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-        <xmin>138.7019867549669</xmin>
-        <ymin>117.26410060975608</ymin>
-        <xmax>238.35761589403972</xmax>
-        <ymax>177.82507621951217</ymax>
-    </bndbox>
-</object><object>
-    <name>can</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-        <xmin>50.11920529801324</xmin>
-        <ymin>160.35556402439025</ymin>
-        <xmax>142.19867549668874</xmax>
-        <ymax>178.40739329268294</ymax>
-    </bndbox>
-</object><object>
-    <name>can</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-        <xmin>0</xmin>
-        <ymin>43.309832317073166</ymin>
-        <xmax>26.225165562913908</xmax>
-        <ymax>120.75800304878047</ymax>
+        <ymin>49.55085714285714</ymin>
+        <xmax>42.628411910669975</xmax>
+        <ymax>118.31085714285713</ymax>
     </bndbox>
 </object>
 </annotation>
